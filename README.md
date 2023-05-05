@@ -1,5 +1,5 @@
 # Time-To-Leave-Final
-##Introduction
+## Introduction
 This project is a Java-based application that sends notifications to users to remind them when it's time to leave for their next class. The application calculates the walking time between the user's current location and the building where their next class is held, and sends the notification accordingly. The user interface of the application is built using Java's Swing toolkit, and the Google Distance Matrix API is used to calculate walking times.
 
 ## Background
